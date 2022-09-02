@@ -4,7 +4,7 @@ Version: 1.0
 
 Converts input into a standardized unit.
 
-![The Unit Converter Component.](https://insidelabs-git.mathworks.com/charting/chartsforfileexchange/-/raw/filled_line_chart/unitConverterComponent/unitConverterComponent.png)
+![The Unit Converter Component.](./unitConverterComponent.png)
 
 ## Syntax
 Note: A conversion table containing units and conversion factors is used. The conversion factors are taken from [Wikipedia](https://en.wikipedia.org/wiki/Conversion_of_units#Length). The conversion works by converting from the `DisplayUnit` to the standard unit for the table, then to the `TargetUnit`.
