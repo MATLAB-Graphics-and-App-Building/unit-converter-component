@@ -1,5 +1,7 @@
 # Unit Converter Component
 
+[![View Unit Converter Component on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/117090-unit-converter-component)
+
 Version: 1.0
 
 Converts input into a standardized unit.
